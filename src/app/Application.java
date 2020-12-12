@@ -22,5 +22,6 @@ public class Application {
         // System.out.println(Math.round(myCircle.pole() * 100.0) / 100.0);
         Square mySquare = new Square(5.0);
         System.out.println(mySquare.pole());
+        System.out.println("Dodaje to cos");
     }
 }
